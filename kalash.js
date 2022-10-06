@@ -1,5 +1,5 @@
 module.exports = {
-    token: "Njg5MzM0MDY5NjI4MzcxMDY4.GhqbCF.RyOMyyQHeZ945oRxiidK5kfdn-BIPfCYvKZPTM", //token of bot
+    token: "", //token of bot
     port: "3000", 
     prefix: "+", //prefix of bot
     client: "💀", 
